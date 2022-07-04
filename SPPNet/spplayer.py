@@ -110,4 +110,4 @@ if __name__ == '__main__':
     # y = spatial_pyramid_pool(x, x.size(0), [int(x.size(2)), int(x.size(3))], [4,2,1])
     model = SPPNet()
     y = model(x)
-    print(y.shape)  # 1 5376
+    print(y.shape)  # 1 102
