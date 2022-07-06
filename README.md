@@ -12,7 +12,7 @@
 ### 框架Architecture
 
 - [ ] 🚌 R-CNN（PyTorch+onnx）
-- [ ] 🚌 SPPNet（PyTorch+onnx）
+- [x] 🚌 SPPNet（PyTorch+onnx）
 - [ ] 🚌 Fast R-CNN（PyTorch+onnx）
 - [ ] 🚌 Faster R-CNN（PyTorch+onnx）
 - [ ] 🚌 SSD（PyTorch+onnx）
