@@ -11,7 +11,7 @@
 
 ### 框架Architecture
 
-- [ ] 🚌 R-CNN（PyTorch+onnx）
+- [ ] 🚌 R-CNN（PyTorch）
 - [x] 🚌 SPPNet（PyTorch+onnx）
 - [ ] 🚌 Fast R-CNN（PyTorch+onnx）
 - [ ] 🚌 Faster R-CNN（PyTorch+onnx）
@@ -36,7 +36,7 @@
 
 - [ ] 🚲Smooth-L1
 
-- [ ] 🚲IoU
+- [x] 🚲IoU
 
 - [ ] 🚲GIoU
 
