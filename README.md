@@ -38,11 +38,11 @@
 
 - [x] 🚲IoU
 
-- [ ] 🚲GIoU
+- [x] 🚲GIoU
 
-- [ ] 🚲DIoU
+- [x] 🚲DIoU
 
-- [ ] 🚲CIoU
+- [x] 🚲CIoU
 
 - [ ] 🚲IoUAware
 
@@ -50,7 +50,7 @@
 
 #### 非极大值抑制（NMS）
 
-- [ ] 🛹NMS
+- [x] 🛹NMS
 - [ ] 🛹SoftNMS
 - [ ] 🛹MatrixNMS
 
